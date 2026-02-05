@@ -1,0 +1,278 @@
+{
+  "totalTrades": 1025,
+  "totalVolume": 1225991.2426019951,
+  "estimatedProfit": -87029.21248499514,
+  "buyCount": 980,
+  "sellCount": 45,
+  "buyRatio": 0.9560975609756097,
+  "avgTradeSize": 1196.0890171726783,
+  "tradesPerDay": 1025,
+  "timeRange": {
+    "start": "2026-02-04T09:24:32.000Z",
+    "end": "2026-02-05T09:17:29.000Z"
+  },
+  "categoryBreakdown": [
+    {
+      "category": "nhl-sea-lak-2026-02-04",
+      "trades": 54,
+      "volume": 120985.095812
+    },
+    {
+      "category": "val-var-geng-2026-02-05",
+      "trades": 10,
+      "volume": 102611.3634
+    },
+    {
+      "category": "nba-okc-sas-2026-02-04-spread-home-9pt5",
+      "trades": 180,
+      "volume": 84957.13999999997
+    },
+    {
+      "category": "nba-min-tor-2026-02-04",
+      "trades": 32,
+      "volume": 83618.49905199998
+    },
+    {
+      "category": "wta-zidanse-cirstea-2026-02-04",
+      "trades": 2,
+      "volume": 81298.052666
+    },
+    {
+      "category": "nhl-stl-dal-2026-02-04",
+      "trades": 6,
+      "volume": 80322.1141
+    },
+    {
+      "category": "nhl-bos-fla-2026-02-04-total-6pt5",
+      "trades": 47,
+      "volume": 78976.22497
+    },
+    {
+      "category": "nhl-bos-fla-2026-02-04",
+      "trades": 22,
+      "volume": 64339.998224999996
+    },
+    {
+      "category": "lol-bkr-zybesp-2026-02-04",
+      "trades": 37,
+      "volume": 62994.873120000004
+    },
+    {
+      "category": "nhl-chi-cbj-2026-02-04",
+      "trades": 3,
+      "volume": 56999.999867
+    },
+    {
+      "category": "nhl-det-utah-2026-02-04-total-6pt5",
+      "trades": 1,
+      "volume": 44000
+    },
+    {
+      "category": "atp-gea-machac-2026-02-04",
+      "trades": 32,
+      "volume": 43123.074244999996
+    },
+    {
+      "category": "nba-den-nyk-2026-02-04",
+      "trades": 230,
+      "volume": 37980.512936999985
+    },
+    {
+      "category": "nhl-min-nsh-2026-02-04",
+      "trades": 37,
+      "volume": 35245.7161
+    },
+    {
+      "category": "nhl-mon-wpg-2026-02-04",
+      "trades": 1,
+      "volume": 29148.981
+    },
+    {
+      "category": "nba-den-nyk-2026-02-04-spread-home-4pt5",
+      "trades": 1,
+      "volume": 26621.8293
+    },
+    {
+      "category": "nba-bos-hou-2026-02-04",
+      "trades": 22,
+      "volume": 24552.781042
+    },
+    {
+      "category": "cbb-sdak-umkc-2026-02-04",
+      "trades": 1,
+      "volume": 21500
+    },
+    {
+      "category": "cbb-mst-minnst-2026-02-04",
+      "trades": 9,
+      "volume": 18186.466855
+    },
+    {
+      "category": "nhl-sj-col-2026-02-04",
+      "trades": 8,
+      "volume": 18091.135432
+    }
+  ],
+  "topOutcomes": [
+    {
+      "outcome": "Kraken vs. Kings - Kraken",
+      "trades": 5,
+      "volume": 120599.99837500001
+    },
+    {
+      "outcome": "Valorant: VARREL vs Gen.G Esports (BO3) - VCT Pacific Kickoff Playoffs - Gen.G Esports",
+      "trades": 10,
+      "volume": 102611.3634
+    },
+    {
+      "outcome": "Transylvania Open: Tamara Zidansek vs Sorana Cirstea - Cirstea",
+      "trades": 2,
+      "volume": 81298.052666
+    },
+    {
+      "outcome": "Blues vs. Stars - Stars",
+      "trades": 4,
+      "volume": 80242
+    },
+    {
+      "outcome": "Bruins vs. Panthers: O/U 6.5 - Over",
+      "trades": 45,
+      "volume": 78945.38997
+    },
+    {
+      "outcome": "Spread: Spurs (-9.5) - Thunder",
+      "trades": 2,
+      "volume": 76721.135
+    },
+    {
+      "outcome": "Timberwolves vs. Raptors - Timberwolves",
+      "trades": 31,
+      "volume": 71904.774652
+    },
+    {
+      "outcome": "Bruins vs. Panthers - Bruins",
+      "trades": 17,
+      "volume": 60628.541925
+    },
+    {
+      "outcome": "LoL: BK ROG Esports vs ZYB Esport (BO1) - LFL Invitational Souper Group - BK ROG Esports",
+      "trades": 36,
+      "volume": 60171.33402
+    },
+    {
+      "outcome": "Blackhawks vs. Blue Jackets - Blue Jackets",
+      "trades": 3,
+      "volume": 56999.999867
+    },
+    {
+      "outcome": "Red Wings vs. Utah: O/U 6.5 - Over",
+      "trades": 1,
+      "volume": 44000
+    },
+    {
+      "outcome": "Open Sud de France: Arthur Gea vs Tomas Machac - Gea",
+      "trades": 26,
+      "volume": 43085.450895
+    },
+    {
+      "outcome": "Canadiens vs. Jets - Canadiens",
+      "trades": 1,
+      "volume": 29148.981
+    },
+    {
+      "outcome": "Spread: Knicks (-4.5) - Nuggets",
+      "trades": 1,
+      "volume": 26621.8293
+    },
+    {
+      "outcome": "Celtics vs. Rockets - Rockets",
+      "trades": 22,
+      "volume": 24552.781042
+    },
+    {
+      "outcome": "South Dakota Coyotes vs. Kansas City Roos - Kansas City Roos",
+      "trades": 1,
+      "volume": 21500
+    },
+    {
+      "outcome": "Nuggets vs. Knicks - Knicks",
+      "trades": 53,
+      "volume": 20325.014861999996
+    },
+    {
+      "outcome": "Wild vs. Predators - Predators",
+      "trades": 1,
+      "volume": 18800
+    },
+    {
+      "outcome": "Michigan State Spartans vs. Minnesota Golden Gophers - Michigan State Spartans",
+      "trades": 9,
+      "volume": 18186.466855
+    },
+    {
+      "outcome": "Sharks vs. Avalanche - Avalanche",
+      "trades": 8,
+      "volume": 18091.135432
+    }
+  ],
+  "bothSidesTrades": [
+    {
+      "event": "cbb-iowa-wash-2026-02-04",
+      "trades": 3
+    },
+    {
+      "event": "nhl-sea-lak-2026-02-04",
+      "trades": 54
+    },
+    {
+      "event": "nba-mem-sac-2026-02-04",
+      "trades": 22
+    },
+    {
+      "event": "nhl-stl-dal-2026-02-04",
+      "trades": 6
+    },
+    {
+      "event": "nba-okc-sas-2026-02-04",
+      "trades": 260
+    },
+    {
+      "event": "cbb-byu-okst-2026-02-04",
+      "trades": 3
+    },
+    {
+      "event": "nhl-min-nsh-2026-02-04",
+      "trades": 37
+    },
+    {
+      "event": "nba-nop-mil-2026-02-04",
+      "trades": 68
+    },
+    {
+      "event": "nhl-bos-fla-2026-02-04",
+      "trades": 69
+    },
+    {
+      "event": "nba-den-nyk-2026-02-04",
+      "trades": 232
+    },
+    {
+      "event": "nba-min-tor-2026-02-04",
+      "trades": 32
+    },
+    {
+      "event": "lol-bkr-zybesp-2026-02-04",
+      "trades": 37
+    },
+    {
+      "event": "atp-gea-machac-2026-02-04",
+      "trades": 32
+    },
+    {
+      "event": "atp-humbert-mannari-2026-02-04",
+      "trades": 45
+    }
+  ],
+  "largePositions": 4,
+  "openPositionsValue": 3141080.7863
+}

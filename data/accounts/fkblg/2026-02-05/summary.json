@@ -1,0 +1,262 @@
+{
+  "totalTrades": 928,
+  "totalVolume": 555709.3211399997,
+  "estimatedProfit": -36275.5441089996,
+  "buyCount": 926,
+  "sellCount": 2,
+  "buyRatio": 0.9978448275862069,
+  "avgTradeSize": 598.8246995043099,
+  "tradesPerDay": 374.7584704766089,
+  "timeRange": {
+    "start": "2026-02-02T09:41:06.000Z",
+    "end": "2026-02-04T21:06:55.000Z"
+  },
+  "categoryBreakdown": [
+    {
+      "category": "lol-th-mkoi-2026-02-02",
+      "trades": 117,
+      "volume": 112806.46046400006
+    },
+    {
+      "category": "lol-sk-gx-2026-02-02",
+      "trades": 65,
+      "volume": 75752.79393
+    },
+    {
+      "category": "nba-bos-dal-2026-02-03",
+      "trades": 127,
+      "volume": 60734.253979999994
+    },
+    {
+      "category": "lol-blg-wb-2026-02-02-game1",
+      "trades": 45,
+      "volume": 47145.852065
+    },
+    {
+      "category": "lol-shft-kc-2026-02-02",
+      "trades": 74,
+      "volume": 30104.030504000002
+    },
+    {
+      "category": "lol-navi-lr-2026-02-02",
+      "trades": 22,
+      "volume": 27461.295765999996
+    },
+    {
+      "category": "lol-wb-al-2026-02-04-game2",
+      "trades": 30,
+      "volume": 23733.835979999996
+    },
+    {
+      "category": "cs2-bcg-faze-2026-02-02",
+      "trades": 31,
+      "volume": 20001.650000999998
+    },
+    {
+      "category": "nba-chi-mil-2026-02-03",
+      "trades": 24,
+      "volume": 19980
+    },
+    {
+      "category": "lol-lgd-omg-2026-02-02",
+      "trades": 97,
+      "volume": 18320.744211000005
+    },
+    {
+      "category": "lol-edg-we-2026-02-04",
+      "trades": 26,
+      "volume": 18274.62708
+    },
+    {
+      "category": "lol-lgd-omg-2026-02-02-game1",
+      "trades": 8,
+      "volume": 10545.467776000001
+    },
+    {
+      "category": "cs2-nrg-fal2-2026-02-02",
+      "trades": 2,
+      "volume": 10462.86759
+    },
+    {
+      "category": "lol-blg-wb-2026-02-02-game2",
+      "trades": 17,
+      "volume": 10336.486353000004
+    },
+    {
+      "category": "lol-wb-al-2026-02-04-game1",
+      "trades": 10,
+      "volume": 8780.113699999998
+    },
+    {
+      "category": "lol-ig1-jdg-2026-02-03",
+      "trades": 29,
+      "volume": 8154.583051
+    },
+    {
+      "category": "lol-wb-al-2026-02-04-total-games-2pt5",
+      "trades": 20,
+      "volume": 6183.87491
+    },
+    {
+      "category": "lol-vit-g2-2026-02-02",
+      "trades": 58,
+      "volume": 6027.778993000002
+    },
+    {
+      "category": "cs2-mouz-aur1-2026-02-02-game2",
+      "trades": 2,
+      "volume": 4529.8166
+    },
+    {
+      "category": "lol-lgd-omg-2026-02-02-game2",
+      "trades": 15,
+      "volume": 4160.5833
+    }
+  ],
+  "topOutcomes": [
+    {
+      "outcome": "LoL: Team Heretics vs Movistar KOI (BO1) - LEC Versus Regular Season - Team Heretics",
+      "trades": 39,
+      "volume": 90792.02404400002
+    },
+    {
+      "outcome": "LoL: SK Gaming vs GIANTX (BO1) - LEC Versus Regular Season - GIANTX",
+      "trades": 65,
+      "volume": 75752.79393
+    },
+    {
+      "outcome": "Celtics vs. Mavericks - Celtics",
+      "trades": 127,
+      "volume": 60734.253979999994
+    },
+    {
+      "outcome": "LoL: Bilibili Gaming vs Weibo Gaming - Game 1 Winner - Bilibili Gaming",
+      "trades": 38,
+      "volume": 46952.66034
+    },
+    {
+      "outcome": "LoL: Natus Vincere vs Los Ratones (BO1) - LEC Versus Regular Season - Natus Vincere",
+      "trades": 22,
+      "volume": 27461.295765999996
+    },
+    {
+      "outcome": "LoL: Shifters vs Karmine Corp (BO1) - LEC Versus Regular Season - Karmine Corp",
+      "trades": 67,
+      "volume": 26031.732210000002
+    },
+    {
+      "outcome": "LoL: Weibo Gaming vs Anyone's Legend - Game 2 Winner - Anyones Legend",
+      "trades": 29,
+      "volume": 23712.715979999997
+    },
+    {
+      "outcome": "LoL: Team Heretics vs Movistar KOI (BO1) - LEC Versus Regular Season - Movistar KOI",
+      "trades": 78,
+      "volume": 22014.436419999995
+    },
+    {
+      "outcome": "Counter-Strike: BC.Game Esports vs FaZe (BO3) - IEM Krakow Group B - FaZe",
+      "trades": 31,
+      "volume": 20001.650000999998
+    },
+    {
+      "outcome": "Bulls vs. Bucks - Bucks",
+      "trades": 24,
+      "volume": 19980
+    },
+    {
+      "outcome": "LoL: EDward Gaming vs Team WE (BO3) - LPL Group Perseverance - EDward Gaming",
+      "trades": 26,
+      "volume": 18274.62708
+    },
+    {
+      "outcome": "LoL: LGD Gaming vs Oh My God (BO3) - LPL Group Nirvana - LGD Gaming",
+      "trades": 74,
+      "volume": 13503.823670000007
+    },
+    {
+      "outcome": "LoL: LGD Gaming vs Oh My God - Game 1 Winner - Oh My God",
+      "trades": 8,
+      "volume": 10545.467776000001
+    },
+    {
+      "outcome": "Counter-Strike: NRG vs Team Falcons (BO3) - IEM Krakow Group B - Team Falcons",
+      "trades": 2,
+      "volume": 10462.86759
+    },
+    {
+      "outcome": "LoL: Weibo Gaming vs Anyone's Legend - Game 1 Winner - Weibo Gaming",
+      "trades": 9,
+      "volume": 8778.5837
+    },
+    {
+      "outcome": "LoL: Invictus Gaming vs JD Gaming (BO3) - LPL Group Ascend - JD Gaming",
+      "trades": 29,
+      "volume": 8154.583051
+    },
+    {
+      "outcome": "LoL: Bilibili Gaming vs Weibo Gaming - Game 2 Winner - Weibo Gaming",
+      "trades": 7,
+      "volume": 7055.199482999999
+    },
+    {
+      "outcome": "Games Total: O/U 2.5 - Over",
+      "trades": 20,
+      "volume": 6183.87491
+    },
+    {
+      "outcome": "LoL: LGD Gaming vs Oh My God (BO3) - LPL Group Nirvana - Oh My God",
+      "trades": 23,
+      "volume": 4816.9205409999995
+    },
+    {
+      "outcome": "Counter-Strike: MOUZ vs Aurora Gaming - Map 2 Winner - MOUZ",
+      "trades": 2,
+      "volume": 4529.8166
+    }
+  ],
+  "bothSidesTrades": [
+    {
+      "event": "lol-wb-al-2026-02-04",
+      "trades": 71
+    },
+    {
+      "event": "lol-edg-we-2026-02-04",
+      "trades": 46
+    },
+    {
+      "event": "cs2-mouz-faze-2026-02-03",
+      "trades": 3
+    },
+    {
+      "event": "lol-ig1-jdg-2026-02-03",
+      "trades": 48
+    },
+    {
+      "event": "lol-shft-kc-2026-02-02",
+      "trades": 74
+    },
+    {
+      "event": "cs2-fut-ast10-2026-02-02",
+      "trades": 6
+    },
+    {
+      "event": "lol-th-mkoi-2026-02-02",
+      "trades": 117
+    },
+    {
+      "event": "lol-vit-g2-2026-02-02",
+      "trades": 58
+    },
+    {
+      "event": "lol-blg-wb-2026-02-02",
+      "trades": 62
+    },
+    {
+      "event": "lol-lgd-omg-2026-02-02",
+      "trades": 120
+    }
+  ],
+  "largePositions": 0,
+  "openPositionsValue": 0
+}
