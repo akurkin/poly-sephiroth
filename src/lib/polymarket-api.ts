@@ -1,8 +1,9 @@
-import type { Activity, Position, Profile, GammaMarket } from "./types.js"
+import type { Activity, Position, Profile, GammaMarket, GammaEvent, CLOBOrderbook } from "./types.js"
 import { ok, err, type Result } from "./result.js"
 
 const DATA_API = "https://data-api.polymarket.com"
 const GAMMA_API = "https://gamma-api.polymarket.com"
+const CLOB_API = "https://clob.polymarket.com"
 const PAGE_SIZE = 100
 const RATE_LIMIT_MS = 100
 
@@ -88,4 +89,33 @@ export async function fetchMarkets(
   }
 
   return ok(markets)
+}
+
+export async function fetchEvents(
+  onProgress?: ProgressFn
+): Promise<Result<GammaEvent[]>> {
+  const all: GammaEvent[] = []
+  let offset = 0
+
+  while (true) {
+    const result = await apiFetch<GammaEvent[]>(
+      `${GAMMA_API}/events?closed=false&active=true&limit=${PAGE_SIZE}&offset=${offset}`
+    )
+    if ("error" in result) return result
+
+    const page = result.data
+    if (page.length === 0) break
+
+    all.push(...page)
+    onProgress?.(all.length, all.length + PAGE_SIZE)
+    offset += PAGE_SIZE
+  }
+
+  return ok(all)
+}
+
+export async function fetchOrderbook(
+  tokenId: string
+): Promise<Result<CLOBOrderbook>> {
+  return apiFetch<CLOBOrderbook>(`${CLOB_API}/book?token_id=${tokenId}`)
 }

@@ -1,3 +1,5 @@
 export { dumpAccount, DumpError } from "./dump-account.js"
 export type { DumpAccountInput, DumpAccountResult, DumpProgress, DumpStage } from "./dump-account.js"
 export { computeSummary } from "./compute-summary.js"
+export { scanArb, ScanError } from "./scan-arb.js"
+export type { ScanArbInput, ArbOpportunity, ScanProgress, ScanStage, OutcomePrice } from "./scan-arb.js"

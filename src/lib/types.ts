@@ -94,3 +94,57 @@ export interface DumpMeta {
   days: number
   version: string
 }
+
+// --- Gamma Event types (events endpoint) ---
+
+export interface GammaEvent {
+  id: string
+  title: string
+  slug: string
+  description: string
+  startDate: string
+  endDate: string
+  active: boolean
+  closed: boolean
+  liquidity: number
+  volume: number
+  volume24hr: number
+  negRisk: boolean
+  enableOrderBook: boolean
+  markets: GammaEventMarket[]
+  commentCount: number
+}
+
+export interface GammaEventMarket {
+  id: string
+  question: string
+  conditionId: string
+  slug: string
+  outcomes: string
+  outcomePrices: string
+  clobTokenIds: string
+  volume: string
+  active: boolean
+  closed: boolean
+  negRisk: boolean
+  bestAsk: number | undefined
+  bestBid: number | undefined
+  orderPriceMinTickSize: number
+  orderMinSize: number
+}
+
+// --- CLOB Orderbook types ---
+
+export interface OrderLevel {
+  price: string
+  size: string
+}
+
+export interface CLOBOrderbook {
+  market: string
+  asset_id: string
+  timestamp: string
+  hash: string
+  bids: OrderLevel[]
+  asks: OrderLevel[]
+}

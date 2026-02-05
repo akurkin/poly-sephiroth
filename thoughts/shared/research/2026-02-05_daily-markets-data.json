@@ -1,0 +1,121 @@
+{
+  "meta": {
+    "date": "2026-02-05",
+    "totalEvents": 50,
+    "totalVolume": 11788009.523260998,
+    "query": "events?end_date_min=2026-02-05&end_date_max=2026-02-08"
+  },
+  "crypto": [
+    {
+      "title": "Bitcoin Up or Down on February 5?",
+      "volume": 1518246.806632,
+      "markets": 1,
+      "slug": "bitcoin-up-or-down-on-february-5"
+    },
+    {
+      "title": "Ethereum above ___ on February 5?",
+      "volume": 1459136.248666,
+      "markets": 11,
+      "slug": "ethereum-above-on-february-5"
+    },
+    {
+      "title": "XRP above ___ on February 5?",
+      "volume": 453569.517343,
+      "markets": 11,
+      "slug": "xrp-above-on-february-5"
+    },
+    {
+      "title": "XRP Up or Down on February 5?",
+      "volume": 34953.812252,
+      "markets": 1,
+      "slug": "xrp-up-or-down-on-february-5"
+    }
+  ],
+  "sports": [
+    {
+      "title": "Which NBA players will be traded this season?",
+      "volume": 1539416.137375,
+      "markets": 14,
+      "slug": "which-nba-players-will-be-traded-this-season"
+    },
+    {
+      "title": "LoL: Ninjas in Pyjamas vs ThunderTalk Gaming (BO3) - LPL Group Perseverance",
+      "volume": 751215.171165,
+      "markets": 50,
+      "slug": "lol-nip-tt-2026-02-05"
+    },
+    {
+      "title": "LoL: Fukuoka SoftBank Hawks Gaming vs GAM Esports (BO3) - LCP Regular Season",
+      "volume": 365360.116193,
+      "markets": 8,
+      "slug": "lol-shg-gam-2026-02-05"
+    },
+    {
+      "title": "Dota 2: OG vs Natus Vincere (BO1) - BLAST Slam Group Stage",
+      "volume": 301990.533345,
+      "markets": 23,
+      "slug": "dota2-og-navi-2026-02-04"
+    },
+    {
+      "title": "LoL: Deep Cross Gaming vs DetonatioN FocusMe (BO3) - LCP Regular Season",
+      "volume": 168283.119427,
+      "markets": 8,
+      "slug": "lol-dcg-dfm-2026-02-05"
+    },
+    {
+      "title": "Dota 2: Natus Vincere vs Team Yandex (BO1) - BLAST Slam Group Stage",
+      "volume": 149428.318023,
+      "markets": 24,
+      "slug": "dota2-navi-ty-2026-02-04"
+    },
+    {
+      "title": "Dota 2: Xtreme Gaming vs Tundra Esports (BO1) - BLAST Slam Group Stage",
+      "volume": 110296.90829,
+      "markets": 20,
+      "slug": "dota2-xtreme-tundra-2026-02-05"
+    },
+    {
+      "title": "LoL: HOWL Esports vs Gamespace Mediterranean College Esports (BO2) - HLL Regular Season",
+      "markets": 1,
+      "slug": "lol-hwl-gsmc-2026-02-04"
+    }
+  ],
+  "events": [
+    {
+      "title": "NJ-11 Special Election Democratic Primary Winner",
+      "volume": 43568.063545,
+      "markets": 28,
+      "slug": "nj-11-special-election-democratic-primary-winner"
+    },
+    {
+      "title": "What will Amazon say during their next earnings call?",
+      "volume": 21458.445116,
+      "markets": 14,
+      "slug": "what-will-amazon-say-during-their-next-earnings-call"
+    },
+    {
+      "title": "What will Reddit say during their next earnings call?",
+      "volume": 3656.357576,
+      "markets": 10,
+      "slug": "what-will-reddit-say-during-their-next-earnings-call"
+    },
+    {
+      "title": "What will Microchip Technology say during their next earnings call?",
+      "volume": 2215.259092,
+      "markets": 8,
+      "slug": "what-will-microchip-technology-say-during-their-next-earnings-call"
+    },
+    {
+      "title": "What will Trump say during the announcement on February 5?",
+      "volume": 2029.162603,
+      "markets": 22,
+      "slug": "what-will-trump-say-during-the-announcement-on-february-5"
+    },
+    {
+      "title": "What will Roblox say during their next earnings call?",
+      "volume": 580.217726,
+      "markets": 10,
+      "slug": "what-will-roblox-say-during-their-next-earnings-call"
+    }
+  ]
+}

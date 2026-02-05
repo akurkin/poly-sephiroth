@@ -1,0 +1,118 @@
+================================================================================
+POLYMARKET DAILY FREQUENCY MARKETS - QUICK REFERENCE
+================================================================================
+
+FINDINGS SUMMARY (2026-02-05):
+- 50 daily markets with $11.8M total volume
+- 3 primary categories: Crypto, Sports/Esports, Events
+- Multiple outcomes per event create arbitrage opportunities
+
+================================================================================
+TOP 10 HIGHEST VOLUME DAILY MARKETS
+================================================================================
+
+1. Where will Giannis be traded?             $3.47M  | 32 outcomes (NBA trade)
+2. Which NBA players traded this season?     $1.54M  | 14 outcomes
+3. Bitcoin Up or Down on Feb 5?              $1.52M  | 1 outcome (Binary)
+4. Ethereum above ___ on Feb 5?              $1.46M  | 11 outcomes (Brackets)
+5. Which NBA players traded this season?     (Duplicate)
+6. LoL: NiP vs ThunderTalk Gaming (BO3)      $751k   | 50 outcomes (Esports)
+7. XRP above ___ on Feb 5?                   $454k   | 11 outcomes (Brackets)
+8. LoL: SoftBank Hawks vs GAM Esports        $365k   | 8 outcomes (Esports)
+9. Dota 2: OG vs Natus Vincere (BO1)         $302k   | 23 outcomes (Esports)
+10. Dota 2: Natus Vincere vs Team Yandex    $149k   | 24 outcomes (Esports)
+
+================================================================================
+MARKET CATEGORY BREAKDOWN
+================================================================================
+
+CRYPTO PRICE BRACKETS (4 events, $3.5M):
+  - Bitcoin: Binary up/down or price levels
+  - Ethereum: 11 bracket levels ($2,300-2,600)
+  - XRP: 11 bracket levels ($1.80-2.10)
+  
+  Strategy: Price bracket arbitrage (YES odds should sum to $1.00)
+
+SPORTS/ESPORTS (12 events, $7.9M):
+  - NBA trading deadline: Giannis destination
+  - Esports matches: LoL (BO3), Dota 2 (BO1)
+  - In-game markets: First Blood, Kill counters
+  
+  Strategy: Information edge + live game tracking
+
+EVENTS/ANNOUNCEMENTS (6 events, $73k):
+  - Earnings calls: Amazon, Reddit, Microchip
+  - Elections: NJ-11 Democratic Primary
+  - "What will X say?" text prediction markets
+  
+  Strategy: NLP/sentiment analysis on transcripts
+
+================================================================================
+ARBITRAGE VECTORS
+================================================================================
+
+1. CROSS-OUTCOME SUM-TO-1 ARBITRAGE
+   Example: Ethereum bracket levels
+   If: YES($2,400) + YES($2,500) + ... + YES($2,600) ≠ $1.00
+   Then: Profitable basket hedging available
+
+2. CONDITIONAL ARBITRAGE (Multi-outcome events)
+   Example: 32 Giannis destination markets
+   If: SUM(YES prices for all 32 teams) > $1.00 + slippage
+   Then: Sell all teams, lock profit when one confirms
+
+3. INFORMATION ARBITRAGE
+   Example: Earnings call "What will X say?"
+   If: Real-time transcript parsing faster than market repricing
+   Then: Front-run sentiment shift
+
+4. LIVE GAME ARBITRAGE
+   Example: First Blood in esports match
+   If: Oracle < 100ms latency to game API
+   Then: Beat other traders on micro-events
+
+================================================================================
+API DETAILS
+================================================================================
+
+Endpoint: https://gamma-api.polymarket.com/events
+Params:   closed=false, active=true, limit=50
+          end_date_min=2026-02-05, end_date_max=2026-02-08
+
+Response fields used:
+  - title: Market title
+  - volume: Total trading volume ($)
+  - markets: Array of outcomes
+  - endDate: Resolution date/time (ISO 8601)
+  - slug: URL slug
+
+Data files saved:
+  - 2026-02-05_daily-markets-research.md (analysis)
+  - 2026-02-05_daily-markets-data.json (structured data)
+
+================================================================================
+NEXT STEPS FOR IMPLEMENTATION
+================================================================================
+
+1. FETCH ORDERBOOK DATA
+   Use CLOB API: https://clob.polymarket.com/
+   Extract: Best bid/ask for top 5 markets
+   Check: Sum-to-1 violations
+
+2. BUILD BRACKET SCANNER
+   For each crypto market:
+   - Extract price levels from all YES/NO contracts
+   - Calculate implied probability distribution
+   - Alert if mispricing > 1-2%
+
+3. ESPORTS DATA PIPELINE
+   - Connect to game event APIs (First Blood timing)
+   - Monitor stream metadata for match start/end
+   - Sync with market resolution
+
+4. EARNINGS CALL SCRAPER
+   - Monitor company websites for earnings dates
+   - Correlate with Polymarket "What will X say?" markets
+   - Real-time transcript parsing
+
+================================================================================

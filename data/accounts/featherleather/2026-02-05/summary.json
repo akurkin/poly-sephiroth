@@ -1,0 +1,71 @@
+{
+  "totalTrades": 612,
+  "totalVolume": 2400736.6714570015,
+  "estimatedProfit": 2164298.774642999,
+  "buyCount": 612,
+  "sellCount": 0,
+  "buyRatio": 1,
+  "avgTradeSize": 3922.7723389820285,
+  "tradesPerDay": 122.11562888274067,
+  "timeRange": {
+    "start": "2026-01-29T19:28:28.000Z",
+    "end": "2026-02-03T19:45:14.000Z"
+  },
+  "categoryBreakdown": [
+    {
+      "category": "sea-bol-mil-2026-02-03-mil",
+      "trades": 220,
+      "volume": 925834.0952560005
+    },
+    {
+      "category": "fl1-str-psg-2026-02-01-psg",
+      "trades": 61,
+      "volume": 639596.5699209999
+    },
+    {
+      "category": "uel-mid1-din6-2026-01-29-mid1",
+      "trades": 183,
+      "volume": 294522.0704930001
+    },
+    {
+      "category": "sea-cag-ver-2026-01-31-cag",
+      "trades": 65,
+      "volume": 284588.277694
+    },
+    {
+      "category": "fl1-lor-nan-2026-01-31-lor",
+      "trades": 83,
+      "volume": 256195.65809300003
+    }
+  ],
+  "topOutcomes": [
+    {
+      "outcome": "Will AC Milan win on 2026-02-03? - Yes",
+      "trades": 220,
+      "volume": 925834.0952560005
+    },
+    {
+      "outcome": "Will Paris Saint-Germain FC win on 2026-02-01? - Yes",
+      "trades": 61,
+      "volume": 639596.5699209999
+    },
+    {
+      "outcome": "Will FC Midtjylland win on 2026-01-29? - Yes",
+      "trades": 183,
+      "volume": 294522.0704930001
+    },
+    {
+      "outcome": "Will Cagliari Calcio win on 2026-01-31? - Yes",
+      "trades": 65,
+      "volume": 284588.277694
+    },
+    {
+      "outcome": "Will FC Lorient win on 2026-01-31? - No",
+      "trades": 83,
+      "volume": 256195.65809300003
+    }
+  ],
+  "bothSidesTrades": [],
+  "largePositions": 0,
+  "openPositionsValue": 0
+}

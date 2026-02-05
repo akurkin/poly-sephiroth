@@ -29,6 +29,7 @@
       "Bash(bun run*)",
       "Bash(bun install*)",
       "Bash(bun test*)",
+      "Bash(bun -e*)",
       "Bash(bun /tmp/*.js)",
       "Bash(bun /private/tmp/*.js)",
       "mcp__chrome-devtools__*"
