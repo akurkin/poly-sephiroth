@@ -22,6 +22,7 @@ Main thread only:
 - Validates inputs
 - Spawns appropriate agents
 - Aggregates results
+- **Saves analysis to SUMMARY.md**
 - Presents to user
 
 ---

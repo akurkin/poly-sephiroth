@@ -40,8 +40,22 @@ Main Thread: Validate data exists, spawn analysis agent
 Sub-Agent: Read files, analyze patterns, produce report
          │
          ▼
-Main Thread: Receive summary, present to user
+Main Thread: Receive summary, SAVE to SUMMARY.md, present to user
 ```
+
+### Persisting Results
+
+**ALWAYS save analysis to `data/accounts/<username>/SUMMARY.md`**
+
+This allows:
+- Quick reference without reprocessing
+- Historical tracking of strategy changes
+- Comparison across accounts
+
+After analysis completes:
+1. Write full analysis to `data/accounts/<username>/SUMMARY.md`
+2. Overwrite if exists (latest analysis wins)
+3. Use markdown format matching Output Format section
 
 ### When to Spawn Agents
 
@@ -79,6 +93,8 @@ Use the Strategy Fingerprints to match patterns:
 - Market Maker: ~50% buy/sell, spread capture, high frequency
 
 Output structured analysis per the Output Format section.
+
+IMPORTANT: After analysis, save the full report to {account_dir}/SUMMARY.md
 ```
 
 **Quick Stats Agent:**
