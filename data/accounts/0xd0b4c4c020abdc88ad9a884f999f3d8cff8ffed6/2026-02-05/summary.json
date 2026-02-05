@@ -1,0 +1,234 @@
+{
+  "totalTrades": 1907,
+  "totalVolume": 884938.6179749987,
+  "estimatedProfit": 1249996.7631910013,
+  "buyCount": 1907,
+  "sellCount": 0,
+  "buyRatio": 1,
+  "avgTradeSize": 464.04751860251633,
+  "tradesPerDay": 682.9770565193062,
+  "timeRange": {
+    "start": "2026-02-02T13:26:38.000Z",
+    "end": "2026-02-05T08:27:23.000Z"
+  },
+  "categoryBreakdown": [
+    {
+      "category": "sea-bol-mil-2026-02-03-mil",
+      "trades": 9,
+      "volume": 157870.65029999998
+    },
+    {
+      "category": "nhl-ott-pit-2026-02-02",
+      "trades": 144,
+      "volume": 132499.81985700005
+    },
+    {
+      "category": "nhl-tor-cal-2026-02-02",
+      "trades": 106,
+      "volume": 129999.897282
+    },
+    {
+      "category": "nba-min-mem-2026-02-02",
+      "trades": 55,
+      "volume": 107999.83232700005
+    },
+    {
+      "category": "nba-nop-cha-2026-02-02-total-231pt5",
+      "trades": 79,
+      "volume": 61249.85699500001
+    },
+    {
+      "category": "nba-den-nyk-2026-02-04-total-226pt5",
+      "trades": 35,
+      "volume": 54371.219261000006
+    },
+    {
+      "category": "nba-nop-mil-2026-02-04-spread-away-4pt5",
+      "trades": 146,
+      "volume": 53725.060535000004
+    },
+    {
+      "category": "sea-bol-mil-2026-02-03-bol",
+      "trades": 32,
+      "volume": 34491.420814
+    },
+    {
+      "category": "arg-iac-lan-2026-02-03-iac",
+      "trades": 207,
+      "volume": 23327.022650000006
+    },
+    {
+      "category": "tur-koc-fen-2026-02-02-total-2pt5",
+      "trades": 63,
+      "volume": 19999.999999999996
+    },
+    {
+      "category": "nhl-min-nsh-2026-02-04",
+      "trades": 45,
+      "volume": 18346.736595000002
+    },
+    {
+      "category": "spl-dam-kho-2026-02-03-dam",
+      "trades": 238,
+      "volume": 15061.98284099993
+    },
+    {
+      "category": "spl-okh-neo-2026-02-02-neo",
+      "trades": 59,
+      "volume": 14480.596244
+    },
+    {
+      "category": "spl-dam-kho-2026-02-03-total-2pt5",
+      "trades": 116,
+      "volume": 13918.522275999989
+    },
+    {
+      "category": "nhl-nyi-wsh-2026-02-02-total-6pt5",
+      "trades": 41,
+      "volume": 9642.245159999999
+    },
+    {
+      "category": "scop-ran-kil-2026-02-04-total-2pt5",
+      "trades": 115,
+      "volume": 5828.932253999999
+    },
+    {
+      "category": "arg-tig-rac-2026-02-02-rac",
+      "trades": 45,
+      "volume": 5631.033172000001
+    },
+    {
+      "category": "ufc-mar-vin9-2026-02-07",
+      "trades": 47,
+      "volume": 4010.175921000001
+    },
+    {
+      "category": "spl-hil-ahl-2026-02-02-hil",
+      "trades": 8,
+      "volume": 3965.655
+    },
+    {
+      "category": "scop-stm-hmi-2026-02-03-hmi",
+      "trades": 76,
+      "volume": 3666.3300499999996
+    }
+  ],
+  "topOutcomes": [
+    {
+      "outcome": "Will AC Milan win on 2026-02-03? - No",
+      "trades": 9,
+      "volume": 157870.65029999998
+    },
+    {
+      "outcome": "Senators vs. Penguins - Senators",
+      "trades": 144,
+      "volume": 132499.81985700005
+    },
+    {
+      "outcome": "Maple Leafs vs. Flames - Maple Leafs",
+      "trades": 106,
+      "volume": 129999.897282
+    },
+    {
+      "outcome": "Timberwolves vs. Grizzlies - Timberwolves",
+      "trades": 55,
+      "volume": 107999.83232700005
+    },
+    {
+      "outcome": "Pelicans vs. Hornets: O/U 231.5 - Over",
+      "trades": 79,
+      "volume": 61249.85699500001
+    },
+    {
+      "outcome": "Nuggets vs. Knicks: O/U 226.5 - Over",
+      "trades": 35,
+      "volume": 54371.219261000006
+    },
+    {
+      "outcome": "Spread: Pelicans (-4.5) - Pelicans",
+      "trades": 146,
+      "volume": 53725.060535000004
+    },
+    {
+      "outcome": "Will Bologna FC 1909 win on 2026-02-03? - Yes",
+      "trades": 32,
+      "volume": 34491.420814
+    },
+    {
+      "outcome": "Will Instituto AC Córdoba win on 2026-02-03? - No",
+      "trades": 207,
+      "volume": 23327.022650000006
+    },
+    {
+      "outcome": "Kocaelispor vs. Fenerbahçe SK: O/U 2.5 - Under",
+      "trades": 63,
+      "volume": 19999.999999999996
+    },
+    {
+      "outcome": "Wild vs. Predators - Predators",
+      "trades": 45,
+      "volume": 18346.736595000002
+    },
+    {
+      "outcome": "Will Damac Saudi Club win on 2026-02-03? - Yes",
+      "trades": 238,
+      "volume": 15061.98284099993
+    },
+    {
+      "outcome": "Will NEOM SC win on 2026-02-02? - No",
+      "trades": 59,
+      "volume": 14480.596244
+    },
+    {
+      "outcome": "Damac Saudi Club vs. Al Kholood Saudi Club: O/U 2.5 - Over",
+      "trades": 116,
+      "volume": 13918.522275999989
+    },
+    {
+      "outcome": "Islanders vs. Capitals: O/U 6.5 - Under",
+      "trades": 41,
+      "volume": 9642.245159999999
+    },
+    {
+      "outcome": "Rangers FC vs. Kilmarnock FC: O/U 2.5 - Over",
+      "trades": 115,
+      "volume": 5828.932253999999
+    },
+    {
+      "outcome": "Will Racing Club win on 2026-02-02? - Yes",
+      "trades": 45,
+      "volume": 5631.033172000001
+    },
+    {
+      "outcome": "UFC Fight Night: Mario Bautista vs. Vinicius Oliveira (Bantamweight, Main Card) - Oliveira",
+      "trades": 47,
+      "volume": 4010.175921000001
+    },
+    {
+      "outcome": "Will Al Hilal Saudi Club win on 2026-02-02? - Yes",
+      "trades": 8,
+      "volume": 3965.655
+    },
+    {
+      "outcome": "Will Heart of Midlothian FC win on 2026-02-03? - Yes",
+      "trades": 76,
+      "volume": 3666.3300499999996
+    }
+  ],
+  "bothSidesTrades": [
+    {
+      "event": "sea-bol-mil-2026-02-03",
+      "trades": 41
+    },
+    {
+      "event": "nhl-tor-cal-2026-02-02",
+      "trades": 115
+    },
+    {
+      "event": "nba-nop-cha-2026-02-02",
+      "trades": 89
+    }
+  ],
+  "largePositions": 0,
+  "openPositionsValue": 10220.620700000001
+}
