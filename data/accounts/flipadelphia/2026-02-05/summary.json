@@ -1,0 +1,254 @@
+{
+  "totalTrades": 2928,
+  "totalVolume": 1929863.5916910027,
+  "estimatedProfit": -869100.8642220029,
+  "buyCount": 2050,
+  "sellCount": 878,
+  "buyRatio": 0.700136612021858,
+  "avgTradeSize": 659.106417927255,
+  "tradesPerDay": 212.23140662266766,
+  "timeRange": {
+    "start": "2026-01-22T09:18:32.000Z",
+    "end": "2026-02-05T04:25:09.000Z"
+  },
+  "categoryBreakdown": [
+    {
+      "category": "khamenei-out-as-supreme-leader-of-iran-by-march-31",
+      "trades": 7,
+      "volume": 191839.9364
+    },
+    {
+      "category": "will-the-us-next-strike-iran-on-february-1-2026-et",
+      "trades": 190,
+      "volume": 190339.89754199996
+    },
+    {
+      "category": "khamenei-out-as-supreme-leader-of-iran-by-february-28",
+      "trades": 6,
+      "volume": 111083.4047
+    },
+    {
+      "category": "us-strikes-iran-by-february-13-2026-721-759-497-124-197-797-992-641-418-789-676-262-791-574",
+      "trades": 158,
+      "volume": 110467.42372599996
+    },
+    {
+      "category": "us-strikes-iran-by-february-28-2026-227-967-547-688-589-491-592-418-452-924-384-915-464-672-196-157-993-596-269-535",
+      "trades": 141,
+      "volume": 98251.4362219999
+    },
+    {
+      "category": "khamenei-out-as-supreme-leader-of-iran-by-january-31",
+      "trades": 36,
+      "volume": 87615.12683
+    },
+    {
+      "category": "us-strikes-iran-by-february-1-2026",
+      "trades": 27,
+      "volume": 76696.00211
+    },
+    {
+      "category": "will-the-us-not-strike-iran-by-january-31-2026-314",
+      "trades": 154,
+      "volume": 73315.40463599999
+    },
+    {
+      "category": "will-france-uk-or-germany-strike-iran-by-january-31",
+      "trades": 34,
+      "volume": 67713.810665
+    },
+    {
+      "category": "will-the-iranian-regime-fall-by-january-31",
+      "trades": 382,
+      "volume": 66023.70959800016
+    },
+    {
+      "category": "us-strikes-iran-by-february-3-2026",
+      "trades": 21,
+      "volume": 61967.406357
+    },
+    {
+      "category": "us-strikes-iran-by-march-31-2026-393-221-132-633-215-592-866-184-321-377-931-222-297-655-719-935-944-321-534-925-937-744-476-586-454-914-676-972-362",
+      "trades": 127,
+      "volume": 61026.53582899999
+    },
+    {
+      "category": "us-strikes-iran-by-february-5-2026",
+      "trades": 47,
+      "volume": 57960.440611000005
+    },
+    {
+      "category": "will-there-be-another-us-government-shutdown-by-january-31",
+      "trades": 40,
+      "volume": 48875.000000000015
+    },
+    {
+      "category": "will-the-us-next-strike-iran-on-february-2-2026-et",
+      "trades": 18,
+      "volume": 45333.892184000004
+    },
+    {
+      "category": "us-strikes-iran-by-january-31-2026-165",
+      "trades": 63,
+      "volume": 36408.868173
+    },
+    {
+      "category": "will-the-us-next-strike-iran-on-february-3-2026-et",
+      "trades": 44,
+      "volume": 32410.502087000015
+    },
+    {
+      "category": "us-strikes-iran-by-june-30-2026-699-664-723-485-753-218-567-164-387-443-377-384-159-973-494-631-694-956-361-443-224-518-537-678-486-386-275-153",
+      "trades": 106,
+      "volume": 31890.33909599999
+    },
+    {
+      "category": "will-the-us-next-strike-iran-on-january-30-2026-et-866",
+      "trades": 12,
+      "volume": 30305.545603
+    },
+    {
+      "category": "us-strikes-iran-by-january-26-2026-337-214-511",
+      "trades": 52,
+      "volume": 28737.65413000001
+    }
+  ],
+  "topOutcomes": [
+    {
+      "outcome": "Khamenei out as Supreme Leader of Iran by March 31? - No",
+      "trades": 7,
+      "volume": 191839.9364
+    },
+    {
+      "outcome": "Will the US next strike Iran on February 1, 2026 (ET)? - No",
+      "trades": 190,
+      "volume": 190339.89754199996
+    },
+    {
+      "outcome": "Khamenei out as Supreme Leader of Iran by February 28? - No",
+      "trades": 6,
+      "volume": 111083.4047
+    },
+    {
+      "outcome": "US strikes Iran by February 13, 2026? - No",
+      "trades": 158,
+      "volume": 110467.42372599996
+    },
+    {
+      "outcome": "US strikes Iran by February 28, 2026? - No",
+      "trades": 140,
+      "volume": 96848.5533219999
+    },
+    {
+      "outcome": "Khamenei out as Supreme Leader of Iran by January 31? - No",
+      "trades": 36,
+      "volume": 87615.12683
+    },
+    {
+      "outcome": "US strikes Iran by February 1, 2026? - No",
+      "trades": 27,
+      "volume": 76696.00211
+    },
+    {
+      "outcome": "Will the US not strike Iran by January 31, 2026? - Yes",
+      "trades": 154,
+      "volume": 73315.40463599999
+    },
+    {
+      "outcome": "Will France, UK or Germany strike Iran by January 31? - No",
+      "trades": 34,
+      "volume": 67713.810665
+    },
+    {
+      "outcome": "Will the Iranian regime fall by January 31? - No",
+      "trades": 382,
+      "volume": 66023.70959800016
+    },
+    {
+      "outcome": "US strikes Iran by February 3, 2026? - No",
+      "trades": 21,
+      "volume": 61967.406357
+    },
+    {
+      "outcome": "US strikes Iran by March 31, 2026? - No",
+      "trades": 127,
+      "volume": 61026.53582899999
+    },
+    {
+      "outcome": "US strikes Iran by February 5, 2026? - No",
+      "trades": 47,
+      "volume": 57960.440611000005
+    },
+    {
+      "outcome": "US government shutdown Saturday? - Yes",
+      "trades": 40,
+      "volume": 48875.000000000015
+    },
+    {
+      "outcome": "Will the US next strike Iran on February 2, 2026 (ET)? - No",
+      "trades": 18,
+      "volume": 45333.892184000004
+    },
+    {
+      "outcome": "US strikes Iran by January 31, 2026? - No",
+      "trades": 63,
+      "volume": 36408.868173
+    },
+    {
+      "outcome": "Will the US next strike Iran on February 3, 2026 (ET)? - No",
+      "trades": 44,
+      "volume": 32410.502087000015
+    },
+    {
+      "outcome": "US strikes Iran by June 30, 2026? - No",
+      "trades": 106,
+      "volume": 31890.33909599999
+    },
+    {
+      "outcome": "Will the US next strike Iran on January 30, 2026 (ET)? - No",
+      "trades": 12,
+      "volume": 30305.545603
+    },
+    {
+      "outcome": "US strikes Iran by January 26, 2026? - No",
+      "trades": 52,
+      "volume": 28737.65413000001
+    }
+  ],
+  "bothSidesTrades": [
+    {
+      "event": "us-strikes-iran-by",
+      "trades": 894
+    },
+    {
+      "event": "us-next-strikes-iran-on-843",
+      "trades": 349
+    },
+    {
+      "event": "nhl-nyi-wsh-2026-02-02",
+      "trades": 9
+    },
+    {
+      "event": "nhl-wpg-dal-2026-02-02",
+      "trades": 32
+    },
+    {
+      "event": "us-next-strikes-iran-on",
+      "trades": 261
+    },
+    {
+      "event": "will-iran-close-the-strait-of-hormuz-by-2027",
+      "trades": 12
+    },
+    {
+      "event": "nfl-la-sea-2026-01-25",
+      "trades": 53
+    },
+    {
+      "event": "nfl-ne-den-2026-01-25",
+      "trades": 16
+    }
+  ],
+  "largePositions": 13,
+  "openPositionsValue": 689994.6160000002
+}

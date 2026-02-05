@@ -10,6 +10,10 @@ export interface DumpData {
   summary: Summary
 }
 
+function sanitizeFolderName(name: string): string {
+  return name.toLowerCase().replace(/[^a-z0-9_-]/g, "_")
+}
+
 export async function writeOutput(
   baseDir: string,
   address: string,
@@ -17,7 +21,10 @@ export async function writeOutput(
   days: number
 ): Promise<string> {
   const dateStr = new Date().toISOString().split("T")[0]
-  const outputDir = join(baseDir, "accounts", address.toLowerCase(), dateStr!)
+  const folderName = data.profile.name
+    ? sanitizeFolderName(data.profile.name)
+    : address.toLowerCase()
+  const outputDir = join(baseDir, "accounts", folderName, dateStr!)
 
   await mkdir(outputDir, { recursive: true })
 
